@@ -1,0 +1,8 @@
+{
+  "name": "Moon Keys",
+  "description": "Um guia para as energias sutis da lua e das marés, inspirado nos princípios do ritmo cósmico.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "prompt": ""
+}
