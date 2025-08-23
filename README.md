@@ -1,14 +1,23 @@
-# Run and deploy your AI Studio app
+Moon Keys - LICENSE
+Copyright (c) 2025 Julio C P Silva
 
-This contains everything you need to run your app locally.
+Todos os direitos reservados.
 
-## Run Locally
+Este software, denominado **Moon Keys**, é protegido por leis nacionais e internacionais de direitos autorais e propriedade intelectual.  
 
-**Prerequisites:**  Node.js
+## Uso e Distribuição
+- O uso, cópia, modificação ou redistribuição total ou parcial deste código só é permitido **mediante autorização expressa do autor**.  
+- Qualquer uso não autorizado constitui violação dos direitos autorais, sujeito às penalidades legais cabíveis.  
+- Projetos derivados, forks ou implementações comerciais devem solicitar permissão prévia ao autor.
 
+## Autoridade Autoral
+O autor original deste projeto é **Julio C P Silva**, responsável pela criação, desenvolvimento e manutenção do código.  
+Todo uso do código deve manter este aviso de autoria e referência ao repositório original.
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## Aviso Legal
+Este software é disponibilizado **"como está"**, sem garantias de qualquer tipo, expressas ou implícitas.  
+O autor não se responsabiliza por danos diretos ou indiretos resultantes do uso deste software.
+
+## Contato
+Para pedidos de uso, colaboração ou esclarecimentos, entre em contato com o autor:
+j.webmass@gmail.com
